@@ -3,6 +3,7 @@ body {
     background-color: #ececf3;
     font-family: Arial, sans-serif;
     color: #222222;
+    font-family: 'Courier New', Courier, monospace;
 } 
 .page {
     width: 760px;
